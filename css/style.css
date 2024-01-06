@@ -50,7 +50,7 @@ a {
 .container {
     display: flex;
     flex-direction: column;
-    width: 75%;
+    width: 65%;
 }
 
 .hero {
@@ -106,7 +106,7 @@ a {
 
 .info-pane-subcontainer {
     display: flex;
-    gap: 25px;
+    gap: 50px;
     justify-content: center;
 }
 
@@ -130,6 +130,7 @@ a {
 
 .info-text {
     display: flex;
+    width: 100px;
     font-size: 14px;
     padding-top: 8px;
 }
