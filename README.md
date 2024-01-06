@@ -1,0 +1,1 @@
+This is a CSS-Styled landing page for the Odin program.  Styled using flexbox and using pixabay images.
