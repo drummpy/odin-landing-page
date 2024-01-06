@@ -134,3 +134,33 @@ a {
     font-size: 14px;
     padding-top: 8px;
 }
+
+.quote-container {
+    display: flex;
+    background: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.quote-pane {
+    display: flex;
+    width: 55%;
+    flex-direction: column;
+    padding: 100px
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937
+}
+
+.quote-author {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    font-size: 28px;
+    font-weight: bolder;
+}
