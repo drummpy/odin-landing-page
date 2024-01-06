@@ -1,1 +1,3 @@
 This is a CSS-Styled landing page for the Odin program.  Styled using flexbox and using pixabay images.
+
+Image by <a href="https://pixabay.com/users/riedelmeier-130476/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1344720">Andreas Riedelmeier</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1344720">Pixabay</a>
