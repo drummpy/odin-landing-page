@@ -164,3 +164,46 @@ a {
     font-size: 28px;
     font-weight: bolder;
 }
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.cta-pane {
+    display: flex;
+    width: 65%;
+    padding: 50px;
+    background: #3882F6;
+    border-radius: 8px;
+    justify-content: space-around;
+}
+
+.cta-title {
+    font-size: 28px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.cta-content {
+    font-size: 16px;
+    color:#F9FAF8;
+}
+
+.cta-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-button {
+    color: #F9FAF8;
+    border: 1px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 8px 28px;
+    font-size: 18px;
+    background: #3882F6;
+}
